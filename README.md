@@ -1,4 +1,4 @@
-## Hi there 👋
+my profile
 
 <!--
 **2311cs010138kiran/2311cs010138Kiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
